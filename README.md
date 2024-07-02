@@ -15,9 +15,10 @@ Este é um site de medicina onde você encontrará notícias, curiosidades e o l
 - Javascript
 - Python Django
 
-## Autor
+## Autores
 
 - Guilherme Henrique
+- Rafael Giaretta
   
 
 
