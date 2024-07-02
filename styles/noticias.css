@@ -1,0 +1,37 @@
+.artigo_card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.artigo{
+    background: var(--cor-fundo-noticia);
+    box-shadow: 0px 4px 4px black;
+    border-radius: 10px;
+    margin: 1em 2em 1em 1em;
+    padding: 1em;
+}
+
+.artigo_titulo{
+    color: var(--cor-titulo-noticia);
+    font-weight: 700;
+    margin: 0.5em 0;
+    font-family: var(--fonte-titulo-noticia);
+}
+
+.artigo_texto{
+    font-size: 14px;
+    font-family: var(--fonte-conteudo-noticia);
+}
+
+.artigo_card{
+    width: 60%;
+    display: flex;
+    border-radius: 10px;
+}
+
+.artigo img{
+    width: 100%;
+    display: flex;
+    border-radius: 10px;
+}

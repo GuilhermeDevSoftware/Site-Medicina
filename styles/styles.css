@@ -1,0 +1,27 @@
+@import url('/styles/reset.css');
+@import url('/styles/header.css');
+@import url('/styles/noticias.css');
+@import url('/styles/rodape.css');
+
+
+:root{
+    /* CORES DO SITE */
+    --cor-fundo-cabecalho: black;
+    --cor-fundo-menu: black;
+    --cor-texto-menu: white;
+
+    --cor-fundo-noticia: gray;
+    --cor-titulo-noticia: black;
+
+    --cor-fundo-rodape: gray;
+    --cor-texto-rodape: black;
+
+
+
+    /* FONTES DO SITE */
+    --fonte-do-menu:  ;
+
+    --fonte-titulo-noticia:   ;
+    --fonte-conteudo-noticia: ;
+
+}
