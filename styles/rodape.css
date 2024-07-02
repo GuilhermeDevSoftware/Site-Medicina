@@ -1,0 +1,13 @@
+hr {
+    margin: 0;
+}
+
+.rodape{
+    font-size: 12px;
+    background-color: var(--cor-fundo-rodape);
+    color: var(--cor-texto-rodape);
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+
+}
